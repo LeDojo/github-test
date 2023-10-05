@@ -1,4 +1,13 @@
-section p{ 
-    color: red;
+body {
+    background-color: steelblue;
+}
 
+
+section p {
+    color: palevioletred;
+
+}
+
+a {
+    color: purple
 }
